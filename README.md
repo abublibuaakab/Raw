@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Raw/refs/heads/main/obfuscated.lua%20(3).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Raw/refs/heads/main/obfuscated.lua%20(4).txt"))()
