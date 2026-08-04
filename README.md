@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Raw/refs/heads/main/Sintonia%20rp%20ultima%20vers%C3%A3o%20Fx%20Hub.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abublibuaakab/Fx-Hub-Universal-New-Update/refs/heads/main/abacktools-obfuscated.lua"))()
